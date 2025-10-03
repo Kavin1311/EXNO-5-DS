@@ -270,6 +270,7 @@ plt.legend()
 plt.show()
 ```
 <img width="720" height="441" alt="image" src="https://github.com/user-attachments/assets/e92aea43-7c46-4b8c-b420-b9c28ec0f4b6" />
+
 ```
 labels='python','C+','ruby','java'
 sizes=[215,130,245,210]
@@ -279,6 +280,7 @@ plt.pie(sizes,explode=explode,colors=colors,labels=labels, autopct='%1.1f%%',sha
 plt.axis('equal')
 plt.show()
 ```
+
 <img width="627" height="364" alt="image" src="https://github.com/user-attachments/assets/f33442a6-723c-4351-92d3-997ce14aa4f0" />
 
 # Result:
